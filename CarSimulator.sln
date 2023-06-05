@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarSimulator", "CarSimulator\CarSimulator.csproj", "{0C0113E7-21F1-49C5-9E67-B8F6BC9602F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarSimulatorLibrary", "CarSimulatorLibrary\CarSimulatorLibrary.csproj", "{B7D06BA1-4ED9-41E9-B124-CADCF8027905}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C0113E7-21F1-49C5-9E67-B8F6BC9602F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C0113E7-21F1-49C5-9E67-B8F6BC9602F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C0113E7-21F1-49C5-9E67-B8F6BC9602F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C0113E7-21F1-49C5-9E67-B8F6BC9602F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7D06BA1-4ED9-41E9-B124-CADCF8027905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D06BA1-4ED9-41E9-B124-CADCF8027905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D06BA1-4ED9-41E9-B124-CADCF8027905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D06BA1-4ED9-41E9-B124-CADCF8027905}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EDE13BE-D994-4189-9FFA-586CD6F0C2D0}
+	EndGlobalSection
+EndGlobal
